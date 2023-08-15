@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nikolai Zimin
+- I really love Programming and everything near it,
+- There you can find silly programs, that i write to make my portfolio and just for fun.
+- Enjoy!)
